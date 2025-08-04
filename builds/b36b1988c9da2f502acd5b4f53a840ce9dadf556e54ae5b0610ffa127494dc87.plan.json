@@ -1,0 +1,1 @@
+{"filename": "builds/b36b1988c9da2f502acd5b4f53a840ce9dadf556e54ae5b0610ffa127494dc87.zip", "runtime": "nodejs18.x", "artifacts_dir": "builds", "build_plan": [["npm", "nodejs18.x", "./src/lambda-audit-logger/package.json", null, null], ["zip", "./src/lambda-audit-logger", null]]}

@@ -1,0 +1,9 @@
+{
+  "name": "lambda-audit-logger",
+  "version": "1.0.0",
+  "description": "Logs incoming EventBridge events to an S3 bucket",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1422.0"
+  }
+}

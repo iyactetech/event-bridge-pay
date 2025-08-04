@@ -1,0 +1,1 @@
+{"filename": "builds/697dbc5307a806cc72bb8b365082a480dfa6557ea93471747fcd7f50326a33a1.zip", "runtime": "nodejs18.x", "artifacts_dir": "builds", "build_plan": [["npm", "nodejs18.x", "./src/lambda-reconciliation/package.json", null, null], ["zip", "./src/lambda-reconciliation", null]]}
